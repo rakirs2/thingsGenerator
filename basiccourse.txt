@@ -1,0 +1,7 @@
+- [ ] Chapter _ Reading
+- [ ] Chapter _ Lecture
+- [ ] Chapter _ Notes
+- [ ] Chapter _ Flashcards
+- [ ] Chapter _ Review
+- [ ] Chapter _ Assignment
+- [ ] Chapter _ Quiz
